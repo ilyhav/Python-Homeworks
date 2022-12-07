@@ -1,0 +1,2413 @@
+[
+    {
+        "url": "https://store.steampowered.com/app/2021910/FPS_Chess/?snr=1_7_7_151_150_1",
+        "title": "FPS Chess",
+        "category": [
+            "Free to Play Games"
+        ],
+        "reviews_count": "3602",
+        "rating": "Very Positive",
+        "release_date": "Jul 16, 2022",
+        "developer": "Meta Fork",
+        "tags": "FPS,PvP,Board Game,Shooter,Sports,Strategy,Tabletop,Turn-Based Strategy,3D,Action,First-Person,Funny,Casual,Multiplayer,Stylized,Family Friendly,Free to Play,Psychological Horror,Chess,Local Multiplayer,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1094000/Survive_on_Raft/?snr=1_7_7_151_150_1",
+        "title": "Survive on Raft",
+        "category": [
+            "Simulation Games"
+        ],
+        "reviews_count": "13",
+        "rating": "Mostly Positive",
+        "release_date": "Jul 5, 2019",
+        "developer": "IO Games",
+        "tags": "Multiplayer,Simulation,Survival,Indie,Open World Survival Craft,Crafting,Open World,Singleplayer,Building,Sandbox,Base Building,First-Person,Adventure,Fishing,Action,Exploration,Co-op,Resource Management,Realistic,Difficult,+",
+        "price": 9.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/628440/Multiplayer_FPS_Demo/?snr=1_7_7_151_150_1",
+        "title": "Multiplayer FPS Demo",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "200",
+        "rating": "Mixed",
+        "release_date": "Jul 6, 2017",
+        "developer": "Vitor Pêgas",
+        "tags": "Free to Play,Action,Casual,Indie,Multiplayer,FPS,Zombies,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1082990/DAMAGE/?snr=1_7_7_151_150_2",
+        "title": "D.A.M.A.G.E",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "",
+        "rating": "2 user reviews",
+        "release_date": "Jul 18, 2019",
+        "developer": "Damage Team",
+        "tags": "Indie,Casual,Action,Tanks,Old School,Retro,Difficult,Top-Down Shooter,Adventure,Shooter,+",
+        "price": 0.37,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/525300/Starship_Annihilator/?snr=1_7_7_151_150_2",
+        "title": "Starship Annihilator",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "96",
+        "rating": "Mixed",
+        "release_date": "Sep 2, 2016",
+        "developer": "IR Studio",
+        "tags": "Indie,Action,Shoot 'Em Up,+",
+        "price": 0.37,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/356130/Heroes_of_Scene/?snr=1_7_7_151_150_2",
+        "title": "Heroes of Scene",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "673",
+        "rating": "Mixed",
+        "release_date": "Aug 26, 2015",
+        "developer": "Icy Donut",
+        "tags": "Free to Play,Strategy,Base Building,Multiplayer,Massively Multiplayer,Indie,Building,Card Game,Trading Card Game,Tower Defense,Tactical,RTS,Great Soundtrack,Action,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1935630/HoopsFPS/?snr=1_7_7_151_150_1",
+        "title": "HoopsFPS",
+        "category": [
+            "Sports Games"
+        ],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "Apr 8, 2022",
+        "developer": "Ronald Elizondo",
+        "tags": "Sports,eSports,Shooter,FPS,3D,Colorful,First-Person,Casual,Simulation,Basketball,Multiplayer,PvP,Action,Massively Multiplayer,+",
+        "price": 2.0,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/833940/Vertigo_FPS/?snr=1_7_7_151_150_1",
+        "title": "Vertigo FPS",
+        "category": [
+            "Violent Games"
+        ],
+        "reviews_count": "",
+        "rating": "1 user reviews",
+        "release_date": "Jun 27, 2018",
+        "developer": "Lothor",
+        "tags": "Action,Indie,Early Access,Casual,Violent,+",
+        "price": 4.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/556780/Neptune_Arena_FPS/?snr=1_7_7_151_150_1",
+        "title": "Neptune: Arena FPS",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "45",
+        "rating": "Mixed",
+        "release_date": "Dec 19, 2016",
+        "developer": "GENOVA Softworks",
+        "tags": "Action,Indie,Casual,FPS,Arena Shooter,+",
+        "price": 2.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/347280/A_Quiver_of_Crows/?snr=1_7_7_151_150_2",
+        "title": "A Quiver of Crows",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "19",
+        "rating": "Mostly Positive",
+        "release_date": "Oct 19, 2016",
+        "developer": "Sheado.net",
+        "tags": "Difficult,Shoot 'Em Up,Twin Stick Shooter,Local Co-Op,Dark Fantasy,Indie,Controller,2D,Singleplayer,Action,Shooter,Local Multiplayer,Supernatural,Demons,Atmospheric,Side Scroller,Stylized,Dark,Gothic,Co-op,+",
+        "price": 14.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1603600/Daldos/?snr=1_7_7_151_150_2",
+        "title": "Daldos",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "",
+        "rating": "2 user reviews",
+        "release_date": "Apr 18, 2022",
+        "developer": "Vanaheim Team",
+        "tags": "Historical,Medieval,Turn-Based Combat,Spectacle fighter,Multiplayer,Turn-Based Strategy,Turn-Based Tactics,Tactical RPG,Strategy,Tactical,PvE,Simulation,PvP,Top-Down,Combat,Realistic,Tabletop,Swordplay,Logic,Local Multiplayer,+",
+        "price": 7.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1632040/Magic_defense/?snr=1_7_7_151_150_2",
+        "title": "Magic defense",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "",
+        "rating": "2 user reviews",
+        "release_date": "May 26, 2021",
+        "developer": "Phoenixxx Games",
+        "tags": "Strategy,Tower Defense,Idler,Survival,Zombies,Resource Management,Building,Base Building,2D,2D Platformer,Cartoony,Hand-drawn,Colorful,Singleplayer,Logic,+",
+        "price": 6.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1103250/FORT/?snr=1_7_7_151_150_2",
+        "title": "FORT",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "",
+        "rating": "3 user reviews",
+        "release_date": "Jul 15, 2019",
+        "developer": "PanzerCat",
+        "tags": "Indie,Simulation,Adventure,+",
+        "price": 0.5,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1576790/FPS_Tactics/?snr=1_7_7_151_150_1",
+        "title": "FPS Tactics",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "",
+        "rating": "4 user reviews",
+        "release_date": "Apr 5, 2021",
+        "developer": "Hede",
+        "tags": "Exploration,Tactical RPG,3D Platformer,Action RTS,Immersive Sim,Shoot 'Em Up,Hack and Slash,FPS,Tower Defense,Platformer,RTS,Strategy RPG,Strategy,Action RPG,3D,First-Person,Military,Stealth,Investigation,Physics,+",
+        "price": 9.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/436260/Ultimate_Arena_FPS/?snr=1_7_7_151_150_1",
+        "title": "Ultimate Arena FPS",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "203",
+        "rating": "Mixed",
+        "release_date": "Sep 5, 2016",
+        "developer": "Kenneth Caselli",
+        "tags": "Action,Indie,FPS,Arena Shooter,Multiplayer,Memes,Early Access,Competitive,Dating Sim,Psychological Horror,Family Friendly,Heist,Anime,+",
+        "price": 17.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/932480/GraviSound/?snr=1_7_7_151_150_2",
+        "title": "GraviSound",
+        "category": [
+            "Audio Production"
+        ],
+        "reviews_count": "23",
+        "rating": "Mostly Positive",
+        "release_date": "Jun 18, 2018",
+        "developer": "URUS GAMES",
+        "tags": "Audio Production,Education,Software Training,Utilities,Indie,Casual,Simulation,Game Development,+",
+        "price": 1.29,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/326690/My_Lands_Highlander__Artifact_DLC_Pack/?snr=1_7_7_151_150_2",
+        "title": "My Lands: Highlander - Artifact DLC Pack",
+        "category": [
+            "Free to Play Games",
+            "My Lands: Black Gem Hunting",
+            "Downloadable Content"
+        ],
+        "reviews_count": "",
+        "rating": "3 user reviews",
+        "release_date": "Oct 3, 2014",
+        "developer": "Gravvit Ltd",
+        "tags": "Massively Multiplayer,Indie,Casual,Strategy,Free to Play,MMORPG,Multiplayer,+",
+        "price": 99.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1827870/DarkHouse/?snr=1_7_7_151_150_2",
+        "title": "DarkHouse",
+        "category": [
+            "Casual Games"
+        ],
+        "reviews_count": "18",
+        "rating": "Mostly Positive",
+        "release_date": "Dec 1, 2021",
+        "developer": "VD Games",
+        "tags": "Horror,Puzzle,Dark,Physics,Old School,Psychological Horror,Atmospheric,Survival,Singleplayer,Exploration,Hidden Object,PvE,Walking Simulator,Female Protagonist,First-Person,Detective,Story Rich,Open World,Action,Realistic,+",
+        "price": 4.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/983460/Katy__Bob_Cake_Caf_Soundtrack/?snr=1_7_7_151_150_2",
+        "title": "Katy & Bob: Cake Café Soundtrack",
+        "category": [
+            "Casual Games",
+            "Katy and Bob: Cake Café",
+            "Downloadable Content"
+        ],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "Jan 29, 2019",
+        "developer": "Workroom7",
+        "tags": "Casual,Strategy,+",
+        "price": 4.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/384300/CPUCores__Maximize_Your_FPS/?snr=1_7_7_151_150_2",
+        "title": "CPUCores :: Maximize Your FPS",
+        "category": [
+            "Utilities"
+        ],
+        "reviews_count": "9994",
+        "rating": "Mostly Positive",
+        "release_date": "Jul 3, 2015",
+        "developer": "Smorb Software",
+        "tags": "Utilities,Software,Gaming,Hardware,FPS,Mod,Singleplayer,Design & Illustration,Indie,Mouse only,Action,Casual,Open World,Gore,Epic,+",
+        "price": 7.49,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/555930/Madness/?snr=1_7_7_151_150_2",
+        "title": "Madness",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "47",
+        "rating": "Mixed",
+        "release_date": "Nov 22, 2016",
+        "developer": "Indie Games Studio",
+        "tags": "Action,Adventure,RPG,Casual,Indie,2D,Pixel Graphics,Action-Adventure,2D Platformer,Atmospheric,Linear,Singleplayer,+",
+        "price": 0.38,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/891100/Ray_of_Light/?snr=1_7_7_151_150_2",
+        "title": "Ray of Light",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "33",
+        "rating": "Mixed",
+        "release_date": "Jul 12, 2018",
+        "developer": "SAFING",
+        "tags": "Indie,Horror,Survival,FPS,Action,Adventure,Story Rich,Great Soundtrack,Shooter,Choose Your Own Adventure,Difficult,+",
+        "price": 0.38,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/409560/Run_Rabbit_Run/?snr=1_7_7_151_150_2",
+        "title": "Run Rabbit Run",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "39",
+        "rating": "Mostly Positive",
+        "release_date": "Mar 31, 2016",
+        "developer": "FLAT12",
+        "tags": "Action,Adventure,Indie,Simulation,Platformer,Difficult,+",
+        "price": 3.99,
+        "platforms": [
+            "win",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/2104960/Dash_FPS/?snr=1_7_7_151_150_1",
+        "title": "Dash FPS",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "",
+        "rating": "2 user reviews",
+        "release_date": "Aug 18, 2022",
+        "developer": "Vinny",
+        "tags": "FPS,Action,Multiplayer,Hero Shooter,PvP,Shooter,Sniper,Realistic,Co-op,Shoot 'Em Up,Gore,Violent,Online Co-Op,Singleplayer,First-Person,+",
+        "price": 2.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/?snr=1_7_7_151_150_1",
+        "title": "PUBG: BATTLEGROUNDS",
+        "category": [
+            "Free to Play Games"
+        ],
+        "reviews_count": "20657",
+        "rating": "Mostly Positive",
+        "release_date": "Dec 21, 2017",
+        "developer": "KRAFTON, Inc.",
+        "tags": "Survival,Shooter,Multiplayer,Battle Royale,FPS,PvP,Third-Person Shooter,Action,Online Co-Op,Tactical,Co-op,First-Person,Strategy,Early Access,Competitive,Third Person,Team-Based,Difficult,Simulation,Stealth,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1714780/Cooking_Trip_New_Challenge_Original_Soundtrack/?snr=1_7_7_151_150_2",
+        "title": "Cooking Trip New Challenge Original Soundtrack",
+        "category": [
+            "Casual Games",
+            "Cooking Trip New Challenge",
+            "Downloadable Content"
+        ],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "Aug 10, 2021",
+        "developer": "GameOn Production",
+        "tags": "Casual,+",
+        "price": 2.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/431050/Astro_Lords_Master_Builder/?snr=1_7_7_151_150_2",
+        "title": "Astro Lords: Master Builder",
+        "category": [
+            "Free to Play Games",
+            "TrinityProject Franchise",
+            "Astro Lords",
+            "Downloadable Content"
+        ],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "Dec 28, 2015",
+        "developer": "Aratog LLC",
+        "tags": "Strategy,Massively Multiplayer,Indie,Free to Play,+",
+        "price": 49.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/683530/FreeFly_Burning/?snr=1_7_7_151_150_2",
+        "title": "FreeFly Burning",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "42",
+        "rating": "Mixed",
+        "release_date": "Aug 23, 2017",
+        "developer": "ZGold",
+        "tags": "Indie,Casual,Action,Simulation,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/agecheck/app/252490/?snr=1_7_7_151_150_1",
+        "title": "",
+        "category": [],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "",
+        "developer": "",
+        "tags": "",
+        "price": "Бесплатно",
+        "platforms": []
+    },
+    {
+        "url": "https://store.steampowered.com/app/1361210/Warhammer_40000_Darktide/?snr=1_7_7_151_150_1",
+        "title": "Warhammer 40,000: Darktide",
+        "category": [
+            "Action Games",
+            "Warhammer Franchise"
+        ],
+        "reviews_count": "33712",
+        "rating": "Mixed",
+        "release_date": "Nov 30, 2022",
+        "developer": "Fatshark",
+        "tags": "Warhammer 40K,Multiplayer,Online Co-Op,Adventure,PvE,Gore,FPS,Singleplayer,Shooter,Hack and Slash,Action,First-Person,Co-op,Character Customization,Violent,Atmospheric,Looter Shooter,Action-Adventure,Survival Horror,Sci-fi,+",
+        "price": 39.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/440/Team_Fortress_2/?snr=1_7_7_151_150_1",
+        "title": "Team Fortress 2",
+        "category": [
+            "Free to Play Games"
+        ],
+        "reviews_count": "17270",
+        "rating": "Overwhelmingly Positive",
+        "release_date": "Oct 10, 2007",
+        "developer": "Valve",
+        "tags": "Free to Play,Hero Shooter,Multiplayer,FPS,Shooter,Action,Class-Based,Team-Based,Funny,First-Person,Online Co-Op,Competitive,Cartoony,Trading,Co-op,Comedy,Robots,Tactical,Cartoon,Crafting,+",
+        "price": 19.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/513710/SCUM/?snr=1_7_7_151_150_2",
+        "title": "SCUM",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "1942",
+        "rating": "Mostly Positive",
+        "release_date": "Aug 29, 2018",
+        "developer": "Gamepires",
+        "tags": "Survival,Open World Survival Craft,Multiplayer,Open World,Zombies,Massively Multiplayer,Nudity,Action,Early Access,Adventure,Realistic,Crafting,Singleplayer,FPS,Violent,PvP,Third Person,Gore,Indie,RPG,+",
+        "price": 34.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/958090/School_of_the_Dead_Anastasia/?snr=1_7_7_151_150_2",
+        "title": "School of the Dead: Anastasia",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "25",
+        "rating": "Positive",
+        "release_date": "Nov 27, 2018",
+        "developer": "NOINDEX GAMES",
+        "tags": "Indie,Action,Female Protagonist,2D,GameMaker,Singleplayer,Difficult,Anime,Great Soundtrack,Zombies,Horror,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/874700/The_Putinland_Divide__Conquer/?snr=1_7_7_151_150_2",
+        "title": "The Putinland: Divide & Conquer",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "10",
+        "rating": "Positive",
+        "release_date": "Jul 3, 2018",
+        "developer": "Tero Lunkka",
+        "tags": "Action,Indie,Gore,Violent,FPS,+",
+        "price": 0.49,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/518790/theHunter_Call_of_the_Wild/?snr=1_7_7_151_150_1",
+        "title": "theHunter: Call of the Wild™",
+        "category": [
+            "Adventure Games"
+        ],
+        "reviews_count": "2272",
+        "rating": "Very Positive",
+        "release_date": "Feb 16, 2017",
+        "developer": "Expansive Worlds",
+        "tags": "Hunting,Open World,Multiplayer,Simulation,First-Person,Shooter,Survival,Realistic,Co-op,Adventure,FPS,Action,Singleplayer,Walking Simulator,Online Co-Op,Atmospheric,Sports,Combat,Strategy,Gore,+",
+        "price": 19.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/968570/Chaordic/?snr=1_7_7_151_150_2",
+        "title": "Chaordic",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "20",
+        "rating": "Positive",
+        "release_date": "Dec 17, 2018",
+        "developer": "Artepi Corporation",
+        "tags": "Platformer,Indie,2D Platformer,RPG,Casual,Simulation,Story Rich,Adventure,Violent,Fantasy,Singleplayer,Free to Play,Action,Horror,Tactical RPG,Psychological Horror,2D,Retro,World War I,Dark,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1162880/Pax_Ruthenia/?snr=1_7_7_151_150_2",
+        "title": "Pax Ruthenia",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "",
+        "rating": "8 user reviews",
+        "release_date": "Nov 28, 2019",
+        "developer": "Venezem",
+        "tags": "Strategy,Indie,Simulation,Politics,Singleplayer,Choose Your Own Adventure,Multiple Endings,Difficult,+",
+        "price": 4.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/696410/Toy_Generals/?snr=1_7_7_151_150_2",
+        "title": "Toy Generals",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "",
+        "rating": "9 user reviews",
+        "release_date": "Apr 19, 2018",
+        "developer": "Arjuna Games",
+        "tags": "Strategy,Indie,Early Access,Real Time Tactics,Military,RTS,War,Tactical,+",
+        "price": 9.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/712230/WARZONE/?snr=1_7_7_151_150_2",
+        "title": "WARZONE",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "",
+        "rating": "2 user reviews",
+        "release_date": "Oct 17, 2017",
+        "developer": "KEA Games",
+        "tags": "Strategy,Indie,Massively Multiplayer,+",
+        "price": 4.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1029470/Angry_Farm/?snr=1_7_7_151_150_2",
+        "title": "Angry Farm",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "",
+        "rating": "3 user reviews",
+        "release_date": "Jul 18, 2019",
+        "developer": "SAFING",
+        "tags": "Indie,Strategy,Action,Arcade,Action-Adventure,+",
+        "price": 0.39,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1452870/Roads_of_Time_2_Odyssey/?snr=1_7_7_151_150_2",
+        "title": "Roads of Time 2: Odyssey",
+        "category": [
+            "Casual Games"
+        ],
+        "reviews_count": "",
+        "rating": "7 user reviews",
+        "release_date": "Apr 8, 2021",
+        "developer": "GameOn Production",
+        "tags": "Casual,Strategy,Adventure,Indie,Singleplayer,Time Management,+",
+        "price": 4.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/agecheck/app/1151340/?snr=1_7_7_151_150_1",
+        "title": "",
+        "category": [],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "",
+        "developer": "",
+        "tags": "",
+        "price": "Бесплатно",
+        "platforms": []
+    },
+    {
+        "url": "https://store.steampowered.com/app/1797450/FPS_Arena_Online/?snr=1_7_7_151_150_2",
+        "title": "FPS Arena Online",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "",
+        "rating": "1 user reviews",
+        "release_date": "Mar 27, 2022",
+        "developer": "Ira Williams",
+        "tags": "Early Access,Arena Shooter,Multiplayer,PvP,FPS,Shooter,3D,Action,First-Person,Controller,Casual,Sci-fi,Robots,Cartoon,Combat,Arcade,Colorful,Minimalist,Fantasy,Funny,+",
+        "price": 7.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/935790/Angry_Troll_Simulator/?snr=1_7_7_151_150_2",
+        "title": "Angry Troll Simulator",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "14",
+        "rating": "Positive",
+        "release_date": "Oct 11, 2018",
+        "developer": "One Face Studio",
+        "tags": "Adventure,Simulation,Indie,Memes,Life Sim,Idler,Exploration,Hidden Object,3D,First-Person,Survival,Parody,Psychedelic,Relaxing,Funny,Fantasy,Comedy,Open World,6DOF,Singleplayer,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/agecheck/app/359550/?snr=1_7_7_151_150_1",
+        "title": "",
+        "category": [],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "",
+        "developer": "",
+        "tags": "Realistic",
+        "price": "Бесплатно",
+        "platforms": []
+    },
+    {
+        "url": "https://store.steampowered.com/app/1566820/Cooking_Trip_New_Challenge/?snr=1_7_7_151_150_2",
+        "title": "Cooking Trip New Challenge",
+        "category": [
+            "Casual Games"
+        ],
+        "reviews_count": "",
+        "rating": "9 user reviews",
+        "release_date": "Aug 10, 2021",
+        "developer": "GameOn Production",
+        "tags": "Casual,Puzzle,Singleplayer,Indie,Time Management,Strategy,Adventure,+",
+        "price": 9.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1474940/Royal_Roads_2_The_Magic_Box/?snr=1_7_7_151_150_2",
+        "title": "Royal Roads 2 The Magic Box",
+        "category": [
+            "Casual Games"
+        ],
+        "reviews_count": "",
+        "rating": "5 user reviews",
+        "release_date": "Nov 27, 2020",
+        "developer": "Studio Bidon Games",
+        "tags": "Strategy,Casual,Time Management,Adventure,Indie,+",
+        "price": 14.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/874130/HUNTER_BRICK_BALL/?snr=1_7_7_151_150_2",
+        "title": "HUNTER BRICK BALL",
+        "category": [
+            "Casual Games",
+            "meokigame Franchise"
+        ],
+        "reviews_count": "17",
+        "rating": "Positive",
+        "release_date": "Jul 1, 2019",
+        "developer": "meokigame",
+        "tags": "Indie,Casual,Simulation,Strategy,Action,Adventure,Sports,Racing,Puzzle,Arcade,2D,Atmospheric,Puzzle Platformer,Platformer,+",
+        "price": 1.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1294920/Another_FPS_Game/?snr=1_7_7_151_150_2",
+        "title": "Another FPS Game",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "",
+        "rating": "3 user reviews",
+        "release_date": "May 9, 2020",
+        "developer": "Akustiyal Games",
+        "tags": "Action,Indie,Adventure,Casual,Simulation,FPS,Parody,Shooter,Action-Adventure,Open World,Experimental,Bullet Hell,Immersive Sim,Spectacle fighter,Survival Horror,3D,First-Person,Realistic,Cinematic,Abstract,+",
+        "price": 3.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1504310/Azure_Sky/?snr=1_7_7_151_150_2",
+        "title": "Azure Sky",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "19",
+        "rating": "Positive",
+        "release_date": "Jan 25, 2021",
+        "developer": "Enoops",
+        "tags": "Adventure,RPG,Action,Exploration,Platformer,Roguelike,Fighting,2D Platformer,2D Fighter,Side Scroller,Puzzle Platformer,Souls-like,Roguelite,Anime,Cute,Minimalist,Pixel Graphics,Atmospheric,Survival,Story Rich,+",
+        "price": 3.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/agecheck/app/496930/?snr=1_7_7_151_150_2",
+        "title": "",
+        "category": [],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "",
+        "developer": "",
+        "tags": "",
+        "price": "Бесплатно",
+        "platforms": []
+    },
+    {
+        "url": "https://store.steampowered.com/app/1403190/Throne_of_Fate/?snr=1_7_7_151_150_2",
+        "title": "Throne of Fate",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "17",
+        "rating": "Positive",
+        "release_date": "Oct 21, 2020",
+        "developer": "Enoops",
+        "tags": "Adventure,RPG,Action,Platformer,Action-Adventure,Roguelike,Action RPG,2D Platformer,Side Scroller,Mystery Dungeon,CRPG,Action Roguelike,2D,Pixel Graphics,Loot,Crafting,Underground,Magic,Character Customization,Perma Death,+",
+        "price": 10.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1650080/Mysterious_Blocks_2/?snr=1_7_7_151_150_2",
+        "title": "Mysterious Blocks 2",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "14",
+        "rating": "Positive",
+        "release_date": "Jun 17, 2021",
+        "developer": "Enoops",
+        "tags": "Adventure,Indie,Singleplayer,Pixel Graphics,2D,Arcade,Puzzle,Colorful,Atmospheric,Physics,3D Platformer,Casual,Puzzle Platformer,3D,+",
+        "price": 0.49,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1647990/Ningakki_XXVI_FPS/?snr=1_7_7_151_150_2",
+        "title": "Ningakki XXVI FPS",
+        "category": [
+            "Action Games",
+            "WilliamDColburn Franchise"
+        ],
+        "reviews_count": "",
+        "rating": "5 user reviews",
+        "release_date": "Sep 25, 2021",
+        "developer": "WilliamDColburn",
+        "tags": "Action,Singleplayer,Post-apocalyptic,FPS,3D Fighter,Shooter,Exploration,Cold War,Dark,Futuristic,Military,Robots,Early Access,Sci-fi,War,Combat,Space,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/473550/SnowBall_FPS/?snr=1_7_7_151_150_2",
+        "title": "SnowBall FPS",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "",
+        "rating": "1 user reviews",
+        "release_date": "Dec 19, 2019",
+        "developer": "khos85",
+        "tags": "Action,Indie,Snow,Casual,FPS,Funny,Cartoon,Strategy,+",
+        "price": 1.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/796440/Spaceguy/?snr=1_7_7_151_150_2",
+        "title": "Spaceguy",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "50",
+        "rating": "Mixed",
+        "release_date": "Feb 15, 2018",
+        "developer": "Light Soft",
+        "tags": "Action,Indie,Retro,2.5D,Shooter,Old School,FPS,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/696400/NeoBoom/?snr=1_7_7_151_150_1",
+        "title": "NeoBoom",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "24",
+        "rating": "Mixed",
+        "release_date": "Sep 14, 2017",
+        "developer": "BJGameInd",
+        "tags": "Indie,Strategy,Casual,Relaxing,Open World,Simulation,Action,Difficult,Anime,Minimalist,Funny,Atmospheric,Singleplayer,Addictive,Top-Down,Choices Matter,Great Soundtrack,Side Scroller,Tutorial,Clicker,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/676760/Noise/?snr=1_7_7_151_150_2",
+        "title": "Noise",
+        "category": [
+            "Adventure Games"
+        ],
+        "reviews_count": "126",
+        "rating": "Mixed",
+        "release_date": "Oct 13, 2019",
+        "developer": "Talentplace",
+        "tags": "Adventure,Indie,Horror,VR,Atmospheric,Mystery,First-Person,Cold War,Early Access,Action,Surreal,Comedy,Psychological Horror,Puzzle,Management,Documentary,Zombies,Classic,Mature,Modern,+",
+        "price": 0.77,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/713010/WARIUM/?snr=1_7_7_151_150_1",
+        "title": "WARIUM",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "16",
+        "rating": "Mostly Positive",
+        "release_date": "Mar 1, 2018",
+        "developer": "ELF",
+        "tags": "Casual,Indie,Strategy,Early Access,Sandbox,2D,Turn-Based Strategy,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/510110/New_Yankee_in_King_Arthurs_Court_2/?snr=1_7_7_151_150_1",
+        "title": "New Yankee in King Arthur's Court 2",
+        "category": [
+            "Casual Games"
+        ],
+        "reviews_count": "16",
+        "rating": "Mixed",
+        "release_date": "Aug 26, 2016",
+        "developer": "Rionix",
+        "tags": "Strategy,Casual,Simulation,+",
+        "price": 3.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/385530/Astro_Lords/?snr=1_7_7_151_150_1",
+        "title": "Astro Lords",
+        "category": [
+            "Free to Play Games",
+            "TrinityProject Franchise"
+        ],
+        "reviews_count": "185",
+        "rating": "Mixed",
+        "release_date": "Sep 29, 2015",
+        "developer": "Aratog LLC",
+        "tags": "Space,Massively Multiplayer,Sci-fi,Free to Play,RPG,Sandbox,MMORPG,Open World,Strategy,Action,Multiplayer,PvP,Economy,Space Sim,Spaceships,Simulation,Difficult,PvE,Capitalism,Tactical,+",
+        "price": 1.59,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/315930/Bravada/?snr=1_7_7_151_150_1",
+        "title": "Bravada",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "32",
+        "rating": "Mostly Positive",
+        "release_date": "Aug 22, 2014",
+        "developer": "Interbellum team",
+        "tags": "RPG,Strategy,Indie,+",
+        "price": 9.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/639840/FIELD_BREAKING/?snr=1_7_7_151_150_1",
+        "title": "FIELD BREAKING",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "18",
+        "rating": "Mixed",
+        "release_date": "Jun 3, 2017",
+        "developer": "Evoluta Studio",
+        "tags": "Casual,Early Access,Strategy,Indie,Simulation,Board Game,Multiplayer,Singleplayer,Turn-Based Strategy,+",
+        "price": 3.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/972280/Deep_Space_Shooter/?snr=1_7_7_151_150_2",
+        "title": "Deep Space Shooter",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "16",
+        "rating": "Mostly Positive",
+        "release_date": "Nov 15, 2018",
+        "developer": "Altair Game",
+        "tags": "Action,Indie,Space,Bullet Hell,Space Sim,Retro,Arcade,Shooter,Shoot 'Em Up,2D,Pixel Graphics,1980s,Atmospheric,Score Attack,Singleplayer,+",
+        "price": 0.37,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/2085290/Veg_out_Crew_FPS/?snr=1_7_7_151_150_2",
+        "title": "Veg out Crew FPS",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "Coming Soon",
+        "developer": "Guy Kimpton",
+        "tags": "Action,Adventure,Casual,Action-Adventure,FPS,2.5D,Cartoony,1990's,Comedy,Funny,Old School,Indie,Retro,Linear,Score Attack,Singleplayer,Shooter,Shoot 'Em Up,First-Person,Survival,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1593100/Earth_Marines/?snr=1_7_7_151_150_2",
+        "title": "Earth Marines",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "15",
+        "rating": "Positive",
+        "release_date": "Jul 13, 2021",
+        "developer": "HugePixel, Diedemor studio",
+        "tags": "Action,Adventure,Shooter,2D,Top-Down,Isometric,Colorful,Military,Zombies,Violent,Gore,Indie,Dark,Post-apocalyptic,Singleplayer,+",
+        "price": 10.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/agecheck/app/1592190/?snr=1_7_7_151_150_2",
+        "title": "",
+        "category": [],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "",
+        "developer": "",
+        "tags": "",
+        "price": "Бесплатно",
+        "platforms": []
+    },
+    {
+        "url": "https://store.steampowered.com/app/997560/Flash_Point__Online_FPS/?snr=1_7_7_151_150_2",
+        "title": "Flash Point - Online FPS",
+        "category": [
+            "Early Access Games"
+        ],
+        "reviews_count": "62",
+        "rating": "Mixed",
+        "release_date": "Mar 22, 2019",
+        "developer": "Aidangig",
+        "tags": "Free to Play,Massively Multiplayer,Indie,Action,Adventure,Early Access,FPS,PvP,Survival,Sandbox,Violent,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/920680/Fate_Hunters/?snr=1_7_7_151_150_2",
+        "title": "Fate Hunters",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "718",
+        "rating": "Mostly Positive",
+        "release_date": "Jul 18, 2019",
+        "developer": "Tower Games",
+        "tags": "Roguelike Deckbuilder,Strategy,Card Battler,Card Game,Deckbuilding,Indie,Roguelike,Roguelite,Turn-Based,Singleplayer,RPG,Adventure,Early Access,+",
+        "price": 14.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1142220/Beat_Aim__Rhythm_FPS_Trainer/?snr=1_7_7_151_150_2",
+        "title": "Beat Aim - Rhythm FPS Trainer",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "135",
+        "rating": "Very Positive",
+        "release_date": "Nov 1, 2019",
+        "developer": "Kamyker",
+        "tags": "Early Access,FPS,Shooter,Simulation,Rhythm,First-Person,Music-Based Procedural Generation,Action,eSports,Competitive,Sniper,Difficult,Third-Person Shooter,Software Training,Multiplayer,Level Editor,Procedural Generation,Singleplayer,Asynchronous Multiplayer,Music,+",
+        "price": 14.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/578690/Dog_Duty/?snr=1_7_7_151_150_1",
+        "title": "Dog Duty",
+        "category": [
+            "Strategy Games",
+            "SOEDESCO Franchise"
+        ],
+        "reviews_count": "39",
+        "rating": "Mixed",
+        "release_date": "Sep 17, 2020",
+        "developer": "Zanardi and Liza",
+        "tags": "War,Indie,Strategy,Real Time Tactics,Tactical,RTS,Funny,Singleplayer,Action,Comedy,Dog,Real-Time,Vehicular Combat,Military,Team-Based,Open World Survival Craft,Pixel Graphics,Colorful,Open World,Turn-Based Combat,+",
+        "price": 9.99,
+        "platforms": [
+            "win",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1080700/Swordbreaker_Origins/?snr=1_7_7_151_150_2",
+        "title": "Swordbreaker: Origins",
+        "category": [
+            "Indie Games",
+            "DuCats Games Franchise"
+        ],
+        "reviews_count": "19",
+        "rating": "Positive",
+        "release_date": "May 13, 2022",
+        "developer": "DuCats Games Studio",
+        "tags": "Indie,Gore,Violent,Adventure,Nudity,Visual Novel,Singleplayer,Replay Value,2D,Exploration,Comedy,Interactive Fiction,Hand-drawn,Stylized,Atmospheric,Parody,Medieval,Puzzle,Point & Click,Difficult,+",
+        "price": 9.99,
+        "platforms": [
+            "win",
+            "linux"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1761040/Gear_of_Glass_Eolarns_war/?snr=1_7_7_151_150_1",
+        "title": "Gear of Glass: Eolarn's war",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "12",
+        "rating": "Positive",
+        "release_date": "Nov 7, 2021",
+        "developer": "Remnants of mosaic",
+        "tags": "Visual Novel,Atmospheric,Dark,Drama,Survival,Story Rich,Emotional,Simulation,Science,Text-Based,Choices Matter,Multiple Endings,Narration,Idler,Exploration,2D,Hand-drawn,Psychological,Casual,Dystopian,+",
+        "price": 14.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/46380/Reign_Conflict_of_Nations/?snr=1_7_7_151_150_1",
+        "title": "Reign: Conflict of Nations",
+        "category": [
+            "Strategy Games",
+            "Fulqrum Publishing Franchise"
+        ],
+        "reviews_count": "70",
+        "rating": "Mixed",
+        "release_date": "Jun 30, 2010",
+        "developer": "Lesta Studio",
+        "tags": "Strategy,Medieval,RTS,Historical,+",
+        "price": 3.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1421020/Simple_FPS_Aim_Trainer/?snr=1_7_7_151_150_2",
+        "title": "Simple FPS Aim Trainer",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "44",
+        "rating": "Positive",
+        "release_date": "Oct 5, 2020",
+        "developer": "TapHazard Games",
+        "tags": "Simulation,FPS,Casual,Action,Shooter,Minimalist,First-Person,Singleplayer,Level Editor,eSports,Indie,2.5D,3D,+",
+        "price": 1.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/817760/The_Castle_Disaster/?snr=1_7_7_151_150_1",
+        "title": "The Castle Disaster",
+        "category": [
+            "Strategy Games",
+            "ImperiumGame Franchise"
+        ],
+        "reviews_count": "26",
+        "rating": "Mostly Positive",
+        "release_date": "Apr 1, 2018",
+        "developer": "ImperiumGame",
+        "tags": "Strategy,Casual,Simulation,Adventure,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/697850/FPS__Fun_Puzzle_Shooter/?snr=1_7_7_151_150_2",
+        "title": "FPS - Fun Puzzle Shooter",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "21",
+        "rating": "Mixed",
+        "release_date": "Nov 17, 2017",
+        "developer": "Rafael Farias",
+        "tags": "Action,Indie,Casual,Strategy,Adventure,FPS,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1522140/Demon_Skin/?snr=1_7_7_151_150_2",
+        "title": "Demon Skin",
+        "category": [
+            "Action Games",
+            "ESDigital Games Franchise"
+        ],
+        "reviews_count": "67",
+        "rating": "Mostly Positive",
+        "release_date": "Apr 13, 2021",
+        "developer": "Ludus future",
+        "tags": "Action,RPG,Hack and Slash,Side Scroller,Dark,Singleplayer,Platformer,Dark Fantasy,Linear,3D,3D Platformer,Adventure,Combat,3D Fighter,Action-Adventure,2.5D,Atmospheric,Controller,Magic,Beat 'em up,+",
+        "price": 14.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1051290/ZIC__Zombies_in_City/?snr=1_7_7_151_150_2",
+        "title": "ZIC – Zombies in City",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "31",
+        "rating": "Positive",
+        "release_date": "May 23, 2019",
+        "developer": "IO Games",
+        "tags": "Shooter,FPS,Action,Zombies,Multiplayer,Co-op Campaign,Online Co-Op,Co-op,First-Person,Adventure,Voxel,Post-apocalyptic,Action-Adventure,Story Rich,Survival,Horror,Indie,Violent,Blood,Singleplayer,+",
+        "price": 4.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1243200/STUFFED_Fun_CoOp_FPS/?snr=1_7_7_151_150_2",
+        "title": "STUFFED: Fun Co-Op FPS",
+        "category": [
+            "Action Games",
+            "Waving Bear Studio Franchise"
+        ],
+        "reviews_count": "130",
+        "rating": "Very Positive",
+        "release_date": "Dec 9, 2021",
+        "developer": "Waving Bear Studio",
+        "tags": "Early Access,FPS,PvE,Shooter,Character Customization,3D,Cute,First-Person,Funny,Procedural Generation,Action,Casual,Cartoony,Zombies,Tactical,Realistic,Comedy,Co-op,Survival,Multiplayer,+",
+        "price": 12.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/agecheck/app/1238840/?snr=1_7_7_151_150_2",
+        "title": "",
+        "category": [],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "",
+        "developer": "",
+        "tags": "Gore,Violent,Mature",
+        "price": "Бесплатно",
+        "platforms": []
+    },
+    {
+        "url": "https://store.steampowered.com/app/931070/Echo_of_Combats/?snr=1_7_7_151_150_1",
+        "title": "Echo of Combats",
+        "category": [
+            "Free to Play Games"
+        ],
+        "reviews_count": "149",
+        "rating": "Mostly Positive",
+        "release_date": "Jul 27, 2021",
+        "developer": "Mad Devices",
+        "tags": "Free to Play,Card Game,Trading Card Game,Strategy,Indie,Fantasy,Massively Multiplayer,RPG,Turn-Based,PvP,Multiplayer,Casual,Turn-Based Strategy,2D,Hand-drawn,Horror,Loot,PvE,Early Access,Tabletop,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1332220/Mightyys_FPS_Aim_Trainer/?snr=1_7_7_151_150_2",
+        "title": "Mightyy's FPS Aim Trainer",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "13",
+        "rating": "Positive",
+        "release_date": "Aug 26, 2021",
+        "developer": "Mightyy",
+        "tags": "Early Access,FPS,Shooter,First-Person,Simulation,eSports,Fast-Paced,Score Attack,Action,Difficult,Software Training,Singleplayer,Multiplayer,3D,Software,Tutorial,Level Editor,Sports,Competitive,Artificial Intelligence,+",
+        "price": 9.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1901200/FPS_Game_Dev_Test/?snr=1_7_7_151_150_2",
+        "title": "FPS Game: Dev Test",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "137",
+        "rating": "Very Positive",
+        "release_date": "Feb 26, 2022",
+        "developer": "jackal_dev_test",
+        "tags": "Action,Shooter,FPS,Multiplayer,Free to Play,Third-Person Shooter,Singleplayer,Indie,Controller,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/631830/Sarcophag/?snr=1_7_7_151_150_1",
+        "title": "Sarcophag",
+        "category": [
+            "Casual Games"
+        ],
+        "reviews_count": "207",
+        "rating": "Mostly Positive",
+        "release_date": "Apr 5, 2018",
+        "developer": "Crew Lab",
+        "tags": "Zombies,Indie,Management,Casual,Singleplayer,2D,Family Friendly,Relaxing,Match 3,Puzzle,Side Scroller,Horror,Point & Click,Abstract,Colorful,Cute,Time Manipulation,Score Attack,Turn-Based,Psychological Horror,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/672860/StellarHub/?snr=1_7_7_151_150_1",
+        "title": "StellarHub",
+        "category": [
+            "Simulation Games",
+            "Valkyrie Initiative Franchise"
+        ],
+        "reviews_count": "123",
+        "rating": "Mixed",
+        "release_date": "Aug 16, 2017",
+        "developer": "Casualogic",
+        "tags": "Simulation,Base Building,Management,Space,Building,Sci-fi,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1225810/FOS/?snr=1_7_7_151_150_1",
+        "title": "FOS",
+        "category": [
+            "RPG Games"
+        ],
+        "reviews_count": "333",
+        "rating": "Very Positive",
+        "release_date": "May 16, 2020",
+        "developer": "Enoops",
+        "tags": "Free to Play,RPG,Adventure,Indie,Action,Pixel Graphics,Casual,Multiplayer,2D,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/548430/Deep_Rock_Galactic/?snr=1_7_7_151_150_2",
+        "title": "Deep Rock Galactic",
+        "category": [
+            "Action Games",
+            "Coffee Stain Franchise"
+        ],
+        "reviews_count": "14211",
+        "rating": "Overwhelmingly Positive",
+        "release_date": "May 13, 2020",
+        "developer": "Ghost Ship Games",
+        "tags": "Co-op,PvE,FPS,Exploration,Loot,Procedural Generation,Shooter,Class-Based,First-Person,Looter Shooter,Sci-fi,Action,Space,Combat,Atmospheric,Horror,Action Roguelike,Survival,Dark,Open World,+",
+        "price": 29.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1449430/Jendo_Origins/?snr=1_7_7_151_150_1",
+        "title": "Jendo: Origins",
+        "category": [
+            "Free to Play Games"
+        ],
+        "reviews_count": "299",
+        "rating": "Very Positive",
+        "release_date": "Nov 5, 2020",
+        "developer": "KLP Company",
+        "tags": "Free to Play,Visual Novel,Anime,Indie,2D,Casual,Comedy,Story Rich,Atmospheric,Nudity,Singleplayer,First-Person,Cute,Adventure,Sexual Content,Hentai,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1285000/Stayhome_Simulator/?snr=1_7_7_151_150_1",
+        "title": "Stayhome Simulator",
+        "category": [
+            "Simulation Games"
+        ],
+        "reviews_count": "95",
+        "rating": "Very Positive",
+        "release_date": "May 22, 2020",
+        "developer": "Two Inc",
+        "tags": "Casual,Indie,Action,Adventure,Strategy,Simulation,Sports,Memes,Clicker,Politics,Economy,Family Friendly,Hacking,Grid-Based Movement,Puzzle,Horror,Singleplayer,Cartoony,Stylized,Colorful,+",
+        "price": 0.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/686810/Hell_Let_Loose/?snr=1_7_7_151_150_2",
+        "title": "Hell Let Loose",
+        "category": [
+            "Action Games",
+            "Team17 Digital Franchise"
+        ],
+        "reviews_count": "1463",
+        "rating": "Very Positive",
+        "release_date": "Jul 27, 2021",
+        "developer": "Black Matter Pty Ltd",
+        "tags": "Shooter,Action,FPS,World War II,Multiplayer,Realistic,War,Singleplayer,Tactical,Military,Simulation,First-Person,Massively Multiplayer,PvP,Strategy,Historical,Gore,Mature,Violent,Indie,+",
+        "price": 26.79,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/agecheck/app/594650/?snr=1_7_7_151_150_2",
+        "title": "",
+        "category": [],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "",
+        "developer": "",
+        "tags": "Gore",
+        "price": "Бесплатно",
+        "platforms": []
+    },
+    {
+        "url": "https://store.steampowered.com/app/575690/PARKAN_THE_IMPERIAL_CHRONICLES/?snr=1_7_7_151_150_1",
+        "title": "PARKAN: THE IMPERIAL CHRONICLES",
+        "category": [
+            "Simulation Games"
+        ],
+        "reviews_count": "37",
+        "rating": "Positive",
+        "release_date": "Sep 1, 1997",
+        "developer": "GameXP.com",
+        "tags": "Adventure,RPG,Simulation,Strategy,Space Sim,Space,Singleplayer,Action,Action-Adventure,Action RPG,CRPG,FPS,First-Person,3D,Futuristic,1990's,Atmospheric,Old School,Combat,Story Rich,+",
+        "price": 2.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/693800/Loco_Parentis/?snr=1_7_7_151_150_1",
+        "title": "Loco Parentis / 孤女咒怨",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "360",
+        "rating": "Mixed",
+        "release_date": "Sep 19, 2019",
+        "developer": "Fair Games Studio",
+        "tags": "Indie,Adventure,Horror,Co-op,Action,Massively Multiplayer,RPG,Dark,VR,Psychological Horror,Violent,Mystery,Online Co-Op,Roguelite,Gore,First-Person,Story Rich,+",
+        "price": 14.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1028110/Cooking_Trip/?snr=1_7_7_151_150_1",
+        "title": "Cooking Trip",
+        "category": [
+            "Casual Games"
+        ],
+        "reviews_count": "22",
+        "rating": "Mixed",
+        "release_date": "May 1, 2019",
+        "developer": "GameOn Production",
+        "tags": "Casual,Strategy,+",
+        "price": 9.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/agecheck/app/311210/?snr=1_7_7_151_150_2",
+        "title": "",
+        "category": [],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "",
+        "developer": "",
+        "tags": "Gore",
+        "price": "Бесплатно",
+        "platforms": []
+    },
+    {
+        "url": "https://store.steampowered.com/agecheck/app/1517290/?snr=1_7_7_151_150_2",
+        "title": "",
+        "category": [],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "",
+        "developer": "",
+        "tags": "",
+        "price": "Бесплатно",
+        "platforms": []
+    },
+    {
+        "url": "https://store.steampowered.com/app/1268750/Starship_Troopers_Extermination/?snr=1_7_7_151_150_2",
+        "title": "Starship Troopers: Extermination",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "2023",
+        "developer": "Offworld Industries",
+        "tags": "Action,Sci-fi,Online Co-Op,First-Person,Combat,Arcade,Co-op,FPS,Wargame,Multiplayer,Aliens,Space,PvE,Shooter,Arena Shooter,Base Building,Class-Based,3D,Realistic,Early Access,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/453510/One_Man_Is_Not_No_Man/?snr=1_7_7_151_150_1",
+        "title": "One Man Is Not No Man",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "63",
+        "rating": "Very Positive",
+        "release_date": "Mar 18, 2016",
+        "developer": "TEN TIULENYA team",
+        "tags": "Indie,Action,Medieval,Difficult,Free to Play,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/488280/Gun_Done/?snr=1_7_7_151_150_1",
+        "title": "Gun Done",
+        "category": [
+            "Casual Games"
+        ],
+        "reviews_count": "535",
+        "rating": "Very Positive",
+        "release_date": "Jun 13, 2016",
+        "developer": "AZAMATIKA",
+        "tags": "Casual,Indie,Western,Pixel Graphics,Memes,Arcade,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/411760/Swordbreaker_The_Game/?snr=1_7_7_151_150_1",
+        "title": "Swordbreaker The Game",
+        "category": [
+            "Indie Games",
+            "DuCats Games Franchise"
+        ],
+        "reviews_count": "266",
+        "rating": "Very Positive",
+        "release_date": "Nov 6, 2015",
+        "developer": "DuCats Games Studio",
+        "tags": "Adventure,Indie,Interactive Fiction,Visual Novel,Choices Matter,Dark Fantasy,Exploration,Medieval,2D,Gore,Fantasy,Point & Click,Comedy,Dungeon Crawler,Replay Value,Atmospheric,Aliens,Magic,Funny,Singleplayer,+",
+        "price": 2.99,
+        "platforms": [
+            "win",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/414080/Life_is_Hard/?snr=1_7_7_151_150_1",
+        "title": "Life is Hard",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "320",
+        "rating": "Mixed",
+        "release_date": "Aug 14, 2021",
+        "developer": "Pirozhok Studio",
+        "tags": "Strategy,Indie,Simulation,Adventure,Early Access,Pixel Graphics,Medieval,Atmospheric,2D,God Game,Economy,Addictive,City Builder,Survival,+",
+        "price": 9.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/940810/Lost_Artifacts_Time_Machine/?snr=1_7_7_151_150_1",
+        "title": "Lost Artifacts: Time Machine",
+        "category": [
+            "Casual Games"
+        ],
+        "reviews_count": "22",
+        "rating": "Mostly Positive",
+        "release_date": "Nov 2, 2018",
+        "developer": "GameOn Production",
+        "tags": "Strategy,Casual,Time Management,+",
+        "price": 14.99,
+        "platforms": [
+            "win",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1144200/Ready_or_Not/?snr=1_7_7_151_150_2",
+        "title": "Ready or Not",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "8177",
+        "rating": "Very Positive",
+        "release_date": "Dec 17, 2021",
+        "developer": "VOID Interactive",
+        "tags": "Tactical,Realistic,FPS,Multiplayer,Shooter,Co-op,First-Person,Singleplayer,Action,Violent,Gun Customization,Combat,Crime,Modern,Horror,Gore,Atmospheric,Co-op Campaign,America,Early Access,+",
+        "price": 39.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1562870/Mind_Rite/?snr=1_7_7_151_150_1",
+        "title": "Mind Rite",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "25",
+        "rating": "Positive",
+        "release_date": "Feb 19, 2022",
+        "developer": "Albino Studio",
+        "tags": "Indie,Casual,Visual Novel,Otome,Singleplayer,Fantasy,Cute,Romance,Female Protagonist,Choices Matter,Anime,2D,Detective,First-Person,Side Scroller,+",
+        "price": 6.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/873900/Lost_Artifacts_Golden_Island/?snr=1_7_7_151_150_1",
+        "title": "Lost Artifacts: Golden Island",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "28",
+        "rating": "Mostly Positive",
+        "release_date": "Jan 4, 2019",
+        "developer": "Creobit",
+        "tags": "Strategy,Casual,Time Management,+",
+        "price": 14.99,
+        "platforms": [
+            "win",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/289200/Ascension_to_the_Throne/?snr=1_7_7_151_150_1",
+        "title": "Ascension to the Throne",
+        "category": [
+            "Strategy Games",
+            "Fulqrum Publishing Franchise"
+        ],
+        "reviews_count": "383",
+        "rating": "Very Positive",
+        "release_date": "Jan 26, 2007",
+        "developer": "DVS",
+        "tags": "RPG,Strategy,Turn-Based,Turn-Based Strategy,Fantasy,Singleplayer,+",
+        "price": 2.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/749250/7th_Sector/?snr=1_7_7_151_150_1",
+        "title": "7th Sector",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "510",
+        "rating": "Mostly Positive",
+        "release_date": "Mar 5, 2019",
+        "developer": "Носков Сергей",
+        "tags": "3D Platformer,Puzzle Platformer,Racing,PvE,Walking Simulator,Arcade,Third Person,Noir,Cyberpunk,Alternate History,Horror,Choices Matter,Multiple Endings,Action,Stylized,Sci-fi,Philosophical,Adventure,Beautiful,Singleplayer,+",
+        "price": 12.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/818700/Warbanners_Death_Speaker/?snr=1_7_7_151_150_1",
+        "title": "Warbanners: Death Speaker",
+        "category": [
+            "Strategy Games",
+            "Warbanners",
+            "Downloadable Content"
+        ],
+        "reviews_count": "15",
+        "rating": "Positive",
+        "release_date": "Mar 29, 2018",
+        "developer": "Crasleen Games",
+        "tags": "Strategy,RPG,Indie,Turn-Based Combat,Singleplayer,Tactical RPG,Dark Fantasy,Medieval,Turn-Based Tactics,Adventure,Fantasy,Tactical,Turn-Based Strategy,Story Rich,2D,Difficult,Atmospheric,Strategy RPG,Turn-Based,+",
+        "price": 4.99,
+        "platforms": [
+            "win",
+            "linux"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1172470/Apex_Legends/?snr=1_7_7_151_150_1",
+        "title": "Apex Legends™",
+        "category": [
+            "Action Games",
+            "Apex Legends Official Franchise"
+        ],
+        "reviews_count": "15334",
+        "rating": "Mostly Positive",
+        "release_date": "Nov 4, 2020",
+        "developer": "Respawn Entertainment",
+        "tags": "Free to Play,Multiplayer,Battle Royale,Shooter,First-Person,FPS,PvP,Action,Hero Shooter,Team-Based,Tactical,Character Customization,Survival,Sci-fi,Loot,Funny,Lore-Rich,Co-op,Cyberpunk,Cinematic,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/869620/Katy_and_Bob_Cake_Caf/?snr=1_7_7_151_150_1",
+        "title": "Katy and Bob: Cake Café",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "48",
+        "rating": "Positive",
+        "release_date": "Dec 7, 2018",
+        "developer": "Workroom7",
+        "tags": "Casual,Strategy,Cooking,+",
+        "price": 14.99,
+        "platforms": [
+            "win",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1085660/Destiny_2/?snr=1_7_7_151_150_1",
+        "title": "Destiny 2",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "6235",
+        "rating": "Very Positive",
+        "release_date": "Oct 1, 2019",
+        "developer": "Bungie",
+        "tags": "Free to Play,Open World,FPS,Looter Shooter,MMORPG,PvP,PvE,Co-op,Shooter,First-Person,Massively Multiplayer,Sci-fi,Loot,Action,Multiplayer,Lore-Rich,Space,Adventure,Competitive,Atmospheric,+",
+        "price": 39.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/818700/Warbanners_Death_Speaker/?snr=1_7_7_151_150_1",
+        "title": "Warbanners: Death Speaker",
+        "category": [
+            "Strategy Games",
+            "Warbanners",
+            "Downloadable Content"
+        ],
+        "reviews_count": "15",
+        "rating": "Positive",
+        "release_date": "Mar 29, 2018",
+        "developer": "Crasleen Games",
+        "tags": "Strategy,RPG,Indie,Turn-Based Combat,Singleplayer,Tactical RPG,Dark Fantasy,Medieval,Turn-Based Tactics,Adventure,Fantasy,Tactical,Turn-Based Strategy,Story Rich,2D,Difficult,Atmospheric,Strategy RPG,Turn-Based,+",
+        "price": 4.99,
+        "platforms": [
+            "win",
+            "linux"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1019940/Race_for_Tuning/?snr=1_7_7_151_150_1",
+        "title": "Race for Tuning",
+        "category": [
+            "Racing Games"
+        ],
+        "reviews_count": "12",
+        "rating": "Very Positive",
+        "release_date": "Apr 19, 2019",
+        "developer": "A. Strazhev",
+        "tags": "Automobile Sim,Racing,Simulation,Massively Multiplayer,Indie,Multiplayer,Driving,Open World,Action,Sandbox,Singleplayer,Realistic,Co-op,Arcade,Fast-Paced,Adventure,Atmospheric,First-Person,Online Co-Op,America,+",
+        "price": 1.24,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/643650/Ken_Folletts_The_Pillars_of_the_Earth__Soundtrack/?snr=1_7_7_151_150_1",
+        "title": "Ken Follett's The Pillars of the Earth - Soundtrack",
+        "category": [
+            "Indie Games",
+            "Daedalic Entertainment Franchise",
+            "Ken Follett's The Pillars of the Earth",
+            "Downloadable Content"
+        ],
+        "reviews_count": "24",
+        "rating": "Positive",
+        "release_date": "Aug 15, 2017",
+        "developer": "Daedalic Entertainment",
+        "tags": "Adventure,Indie,Casual,Violent,+",
+        "price": 2.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/575780/Inner_silence/?snr=1_7_7_151_150_1",
+        "title": "Inner silence",
+        "category": [
+            "Action Games",
+            "Volens Nolens Games Franchise"
+        ],
+        "reviews_count": "43",
+        "rating": "Positive",
+        "release_date": "Feb 11, 2017",
+        "developer": "Volens Nolens Games",
+        "tags": "Action,Adventure,Casual,Indie,Platformer,Pixel Graphics,2D,Puzzle,Puzzle Platformer,Retro,Bullet Time,Singleplayer,+",
+        "price": 0.3,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/650440/Warbanners/?snr=1_7_7_151_150_1",
+        "title": "Warbanners",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "466",
+        "rating": "Mostly Positive",
+        "release_date": "Oct 18, 2017",
+        "developer": "Crasleen Games",
+        "tags": "Turn-Based Tactics,Turn-Based Combat,Tactical RPG,Turn-Based,Turn-Based Strategy,2D,Strategy,Strategy RPG,Tactical,Fantasy,RPG,Singleplayer,Replay Value,Difficult,Atmospheric,Medieval,Indie,Dark Fantasy,Story Rich,Adventure,+",
+        "price": 19.99,
+        "platforms": [
+            "win",
+            "linux"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1525890/Death_Park_2/?snr=1_7_7_151_150_1",
+        "title": "Death Park 2",
+        "category": [
+            "Adventure Games"
+        ],
+        "reviews_count": "107",
+        "rating": "Very Positive",
+        "release_date": "Feb 24, 2021",
+        "developer": "Euphoria Games",
+        "tags": "Adventure,Action,Puzzle,Arcade,Exploration,Hidden Object,Horror,Survival Horror,FPS,First-Person,Dark,Psychological Horror,Indie,Singleplayer,Blood,Gore,Violent,Replay Value,Difficult,+",
+        "price": 5.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1899790/MALFUNCTION_FPS/?snr=1_7_7_151_150_1",
+        "title": "MALFUNCTION FPS",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "24",
+        "rating": "Mostly Positive",
+        "release_date": "Feb 23, 2022",
+        "developer": "HOIman",
+        "tags": "FPS,Action,Shooter,3D Fighter,3D,First-Person,Post-apocalyptic,Sci-fi,Robots,Free to Play,Futuristic,Combat,Singleplayer,Hero Shooter,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/971460/FPS_Training/?snr=1_7_7_151_150_1",
+        "title": "FPS Training",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "73",
+        "rating": "Mixed",
+        "release_date": "Dec 14, 2018",
+        "developer": "Drago Software",
+        "tags": "Indie,Action,FPS,Shooter,First-Person,Education,Utilities,3D,Stylized,Cyberpunk,Futuristic,Military,Modern,Sci-fi,Sniper,Surreal,Combat,Gun Customization,PvE,Singleplayer,+",
+        "price": 4.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1256380/FPS_Infinite/?snr=1_7_7_151_150_1",
+        "title": "FPS Infinite",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "88",
+        "rating": "Very Positive",
+        "release_date": "Mar 16, 2020",
+        "developer": "Phr00t's Software",
+        "tags": "Indie,Action,Adventure,FPS,Free to Play,VR,First-Person,Procedural Generation,Metroidvania,3D Platformer,Sci-fi,Singleplayer,Bullet Time,Time Attack,Stealth,Competitive,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/683830/Weable/?snr=1_7_7_151_150_1",
+        "title": "Weable",
+        "category": [
+            "Action Games",
+            "Valkyrie Initiative Franchise"
+        ],
+        "reviews_count": "183",
+        "rating": "Mostly Positive",
+        "release_date": "Aug 23, 2017",
+        "developer": "SPECTRUM GAMES",
+        "tags": "Action,Indie,Casual,2D,Top-Down,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/940780/Royal_Roads/?snr=1_7_7_151_150_1",
+        "title": "Royal Roads",
+        "category": [
+            "Casual Games"
+        ],
+        "reviews_count": "21",
+        "rating": "Mostly Positive",
+        "release_date": "Nov 23, 2018",
+        "developer": "Studio Bidon Games",
+        "tags": "Casual,Strategy,Time Management,+",
+        "price": 4.99,
+        "platforms": [
+            "win",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/356260/Stalingrad/?snr=1_7_7_151_150_1",
+        "title": "Stalingrad",
+        "category": [
+            "Strategy Games",
+            "Fulqrum Publishing Franchise"
+        ],
+        "reviews_count": "307",
+        "rating": "Very Positive",
+        "release_date": "Apr 5, 2005",
+        "developer": "DTF games",
+        "tags": "Strategy,RTS,World War II,War,+",
+        "price": 4.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/?snr=1_7_7_151_150_1",
+        "title": "Counter-Strike: Global Offensive",
+        "category": [
+            "Free to Play Games"
+        ],
+        "reviews_count": "65118",
+        "rating": "Very Positive",
+        "release_date": "Aug 21, 2012",
+        "developer": "Valve",
+        "tags": "FPS,Shooter,Multiplayer,Competitive,Action,Team-Based,eSports,Tactical,First-Person,PvP,Online Co-Op,Co-op,Strategy,Military,War,Difficult,Trading,Realistic,Fast-Paced,Moddable,+",
+        "price": 14.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/290730/My_Lands_Black_Gem_Hunting/?snr=1_7_7_151_150_1",
+        "title": "My Lands: Black Gem Hunting",
+        "category": [
+            "Free to Play Games"
+        ],
+        "reviews_count": "3281",
+        "rating": "Very Positive",
+        "release_date": "Sep 16, 2014",
+        "developer": "Gravvit Ltd",
+        "tags": "Strategy,Free to Play,RTS,Massively Multiplayer,Multiplayer,Indie,Casual,Adventure,MMORPG,Singleplayer,Co-op,RPG,2D,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/908520/fpsVR/?snr=1_7_7_151_150_1",
+        "title": "fpsVR",
+        "category": [
+            "Utilities"
+        ],
+        "reviews_count": "29",
+        "rating": "Very Positive",
+        "release_date": "Sep 11, 2018",
+        "developer": "SBSoftLab",
+        "tags": "Utilities,VR,Software,Benchmark,Hardware,Indie,FPS,+",
+        "price": 3.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/313310/My_Lands_Hero_Courage__Starter_DLC_Pack/?snr=1_7_7_151_150_2",
+        "title": "My Lands: Hero Courage - Starter DLC Pack",
+        "category": [
+            "Free to Play Games",
+            "My Lands: Black Gem Hunting",
+            "Downloadable Content"
+        ],
+        "reviews_count": "",
+        "rating": "1 user reviews",
+        "release_date": "Sep 16, 2014",
+        "developer": "Gravvit Ltd",
+        "tags": "Massively Multiplayer,Indie,Strategy,Free to Play,Casual,+",
+        "price": 17.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1945590/Linguist_FPS__The_Language_Learning_FPS/?snr=1_7_7_151_150_1",
+        "title": "Linguist FPS - The Language Learning FPS",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "87",
+        "rating": "Mostly Positive",
+        "release_date": "May 20, 2022",
+        "developer": "Rocket Boy Games",
+        "tags": "Action Roguelike,Education,FPS,Foreign,Perma Death,PvE,Shoot 'Em Up,Difficult,Shooter,Cold War,Controller,Dynamic Narration,Robots,Loot,Realistic,Narration,Action,3D,Procedural Generation,Politics,+",
+        "price": 14.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1804170/Mimicry/?snr=1_7_7_151_150_1",
+        "title": "Mimicry",
+        "category": [
+            "Action Games"
+        ],
+        "reviews_count": "13",
+        "rating": "Very Positive",
+        "release_date": "Aug 25, 2022",
+        "developer": "Euphoria Games",
+        "tags": "Survival,Action,Space,Minigames,Horror,Gore,Blood,Online Co-Op,Multiplayer,Psychological Horror,Violent,Co-op,Team-Based,Stealth,Indie,Atmospheric,Survival Horror,Social Deduction,Casual,3D,+",
+        "price": 4.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/agecheck/app/1091500/?snr=1_7_7_151_150_2",
+        "title": "",
+        "category": [],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "",
+        "developer": "",
+        "tags": "",
+        "price": "Бесплатно",
+        "platforms": []
+    },
+    {
+        "url": "https://store.steampowered.com/agecheck/app/1938090/?snr=1_7_7_151_150_1",
+        "title": "",
+        "category": [],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "",
+        "developer": "",
+        "tags": "Violent,Realistic,Mature,Gore",
+        "price": "Бесплатно",
+        "platforms": []
+    },
+    {
+        "url": "https://store.steampowered.com/app/940800/Gnomes_Garden_Christmas_Story/?snr=1_7_7_151_150_1",
+        "title": "Gnomes Garden: Christmas Story",
+        "category": [
+            "Strategy Games",
+            "Gnomes Garden Series Franchise"
+        ],
+        "reviews_count": "32",
+        "rating": "Positive",
+        "release_date": "Dec 11, 2018",
+        "developer": "Toyman",
+        "tags": "Casual,Strategy,+",
+        "price": 1.49,
+        "platforms": [
+            "win",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1186030/Death_Park/?snr=1_7_7_151_150_1",
+        "title": "Death Park",
+        "category": [
+            "Adventure Games"
+        ],
+        "reviews_count": "95",
+        "rating": "Very Positive",
+        "release_date": "Nov 26, 2019",
+        "developer": "Euphoria Games",
+        "tags": "Adventure,Indie,Horror,Action,Survival Horror,Psychological Horror,Puzzle,Singleplayer,Dark,Gore,Hidden Object,Violent,Replay Value,Blood,Great Soundtrack,Arcade,Exploration,Difficult,Atmospheric,+",
+        "price": 5.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/650440/Warbanners/?snr=1_7_7_151_150_1",
+        "title": "Warbanners",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "466",
+        "rating": "Mostly Positive",
+        "release_date": "Oct 18, 2017",
+        "developer": "Crasleen Games",
+        "tags": "Turn-Based Tactics,Turn-Based Combat,Tactical RPG,Turn-Based,Turn-Based Strategy,2D,Strategy,Strategy RPG,Tactical,Fantasy,RPG,Singleplayer,Replay Value,Difficult,Atmospheric,Medieval,Indie,Dark Fantasy,Story Rich,Adventure,+",
+        "price": 19.99,
+        "platforms": [
+            "win",
+            "linux"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1146600/For_the_People/?snr=1_7_7_151_150_1",
+        "title": "For the People",
+        "category": [
+            "Indie Games",
+            "101XP Franchise"
+        ],
+        "reviews_count": "536",
+        "rating": "Mostly Positive",
+        "release_date": "Aug 13, 2020",
+        "developer": "Brezg Studio",
+        "tags": "Choose Your Own Adventure,Visual Novel,Political Sim,Time Management,Tactical RPG,Casual,Strategy,Political,Choices Matter,First-Person,2D,Noir,Multiple Endings,Management,Story Rich,Point & Click,Simulation,Dystopian,Atmospheric,Adventure,+",
+        "price": 16.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/2077060/SATUS/?snr=1_7_7_151_150_2",
+        "title": "SATUS",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "Feb 10, 2023",
+        "developer": "Strudio Company",
+        "tags": "Action,War,Grand Strategy,Turn-Based Strategy,Strategy,Turn-Based Tactics,2D,3D,Pixel Graphics,Magic,Tactical,Fantasy,Singleplayer,Choices Matter,Simulation,Casual,Indie,Adventure,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/2006390/Valand/?snr=1_7_7_151_150_1",
+        "title": "Valand",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "17",
+        "rating": "Very Positive",
+        "release_date": "Nov 4, 2022",
+        "developer": "LOMS Studio",
+        "tags": "Simulation,Action,City Builder,Life Sim,RTS,Real Time Tactics,Third-Person Shooter,Top-Down Shooter,3D,Third Person,Military,War,Historical,Nature,Swordplay,Medieval,Archery,Tactical,Economy,Management,+",
+        "price": 7.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/874020/Lost_Artifacts_Soulstone/?snr=1_7_7_151_150_2",
+        "title": "Lost Artifacts: Soulstone",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "17",
+        "rating": "Mostly Negative",
+        "release_date": "Dec 21, 2018",
+        "developer": "GameOn Production",
+        "tags": "Casual,Strategy,Time Management,+",
+        "price": 14.99,
+        "platforms": [
+            "win",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1383630/Antarctica_88/?snr=1_7_7_151_150_1",
+        "title": "Antarctica 88",
+        "category": [
+            "Adventure Games"
+        ],
+        "reviews_count": "117",
+        "rating": "Very Positive",
+        "release_date": "Aug 14, 2020",
+        "developer": "Euphoria Games",
+        "tags": "Horror,Survival Horror,FPS,Exploration,Hidden Object,Shooter,Arcade,Action RPG,First-Person,Psychological Horror,Action,Puzzle,Realistic,Lovecraftian,Sci-fi,Adventure,Atmospheric,Dark,Singleplayer,Indie,+",
+        "price": 5.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/612510/The_Far_Frontier/?snr=1_7_7_151_150_2",
+        "title": "The Far Frontier",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "29",
+        "rating": "Mixed",
+        "release_date": "Aug 15, 2017",
+        "developer": "Chillax Games Studio",
+        "tags": "Strategy,Indie,Casual,Match 3,+",
+        "price": 2.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/790930/Primitive_Shooter/?snr=1_7_7_151_150_1",
+        "title": "Primitive Shooter",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "59",
+        "rating": "Very Positive",
+        "release_date": "Feb 7, 2018",
+        "developer": "Primitive Studio",
+        "tags": "Action,Indie,Strategy,Shooter,Retro,Casual,Top-Down Shooter,Minimalist,Old School,+",
+        "price": 0.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/2082000/WORMWOOD/?snr=1_7_7_151_150_2",
+        "title": "WORMWOOD",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "",
+        "rating": "",
+        "release_date": "TBA — ADD TO WISHLIST",
+        "developer": "Ignis Sanat",
+        "tags": "Outbreak Sim,Visual Novel,Story Rich,Atmospheric,Anime,Multiple Endings,Dark,2D,Strategy,Text-Based,Mystery,Supernatural,Political Sim,Interactive Fiction,Alternate History,Narration,Lovecraftian,Nonlinear,Choices Matter,Hand-drawn,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/930640/Code_Brown/?snr=1_7_7_151_150_1",
+        "title": "Code Brown",
+        "category": [
+            "Indie Games"
+        ],
+        "reviews_count": "80",
+        "rating": "Very Positive",
+        "release_date": "Nov 9, 2018",
+        "developer": "CreaTeam",
+        "tags": "Hidden Object,Stealth,Arcade,2D,Cute,Parody,Psychological Horror,Funny,Dark Humor,Dark Comedy,Conversation,Puzzle,Simulation,Cartoony,Colorful,Hand-drawn,Score Attack,Psychedelic,Comedy,Adventure,+",
+        "price": 4.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/386640/Affected_Zone_Tactics/?snr=1_7_7_151_150_2",
+        "title": "Affected Zone Tactics",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "301",
+        "rating": "Mixed",
+        "release_date": "Nov 17, 2015",
+        "developer": "Light Vision Interactive",
+        "tags": "Free to Play,Strategy,Massively Multiplayer,Turn-Based,Tactical,Turn-Based Strategy,Turn-Based Tactics,Isometric,Post-apocalyptic,Sci-fi,+",
+        "price": "Бесплатно",
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/268200/Antisquad/?snr=1_7_7_151_150_2",
+        "title": "Antisquad",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "127",
+        "rating": "Mixed",
+        "release_date": "Oct 31, 2014",
+        "developer": "InsGames",
+        "tags": "Strategy,Turn-Based,Turn-Based Strategy,Action,Adventure,Tactical,Singleplayer,Indie,Turn-Based Tactics,Early Access,+",
+        "price": 5.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/444180/Techwars_Online/?snr=1_7_7_151_150_2",
+        "title": "Techwars Online",
+        "category": [
+            "Strategy Games"
+        ],
+        "reviews_count": "94",
+        "rating": "Mixed",
+        "release_date": "Mar 17, 2016",
+        "developer": "Argus Games",
+        "tags": "Massively Multiplayer,Strategy,Indie,Action,Turn-Based Strategy,Tactical,Multiplayer,Mechs,Singleplayer,Board Game,Turn-Based,+",
+        "price": 4.99,
+        "platforms": [
+            "win"
+        ]
+    },
+    {
+        "url": "https://store.steampowered.com/app/1016720/Save_Koch/?snr=1_7_7_151_150_2",
+        "title": "Save Koch",
+        "category": [
+            "Simulation Games"
+        ],
+        "reviews_count": "111",
+        "rating": "Mixed",
+        "release_date": "Apr 18, 2019",
+        "developer": "Wooden Monkeys",
+        "tags": "Strategy,Simulation,Adventure,Story Rich,Atmospheric,Detective,Choices Matter,Singleplayer,Great Soundtrack,2D,Replay Value,Violent,Casual,Political,Indie,Difficult,Point & Click,Multiple Endings,Management,Thriller,+",
+        "price": 11.99,
+        "platforms": [
+            "win",
+            "linux",
+            "mac"
+        ]
+    }
+]
